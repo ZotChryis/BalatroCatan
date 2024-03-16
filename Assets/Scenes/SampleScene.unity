@@ -199,6 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_prefab: {fileID: 4704088824553466287, guid: 144154c2ae39b034d923cabf60737025, type: 3}
+  Selected: {fileID: 0}
 --- !u!1 &448047500
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,6 +233,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 43171505eed7c81428905a0b18cb92d9, type: 2}
   - {fileID: 11400000, guid: 5a42218392bb91143ba404e1a9d9bed2, type: 2}
   - {fileID: 11400000, guid: 97dbffd3171671b439dc9ccf32301209, type: 2}
+  MapGenerator: {fileID: 2121164844}
 --- !u!4 &448047502
 Transform:
   m_ObjectHideFlags: 0

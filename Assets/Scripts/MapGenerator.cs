@@ -7,10 +7,9 @@ public class MapGenerator : MonoBehaviour
     private int m_totalTileProbability;
     private GameObject[] m_tileProbability;
     
-    private void Start()
+    public void Initialize()
     {
         GenerateProbabilityTable();
-        GenerateMap();
     }
 
     public void GenerateProbabilityTable()
