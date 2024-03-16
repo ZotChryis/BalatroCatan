@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9e10723b0d66544abd4d966775ecb0, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 1787952542435520, guid: f5738bfb06b8b664f8165c74ec50881a, type: 3}
+  HandIcon: {fileID: 21300000, guid: 720ac4fdbef3a144cb48fa9a4e18f746, type: 3}
+  Resource: 5
